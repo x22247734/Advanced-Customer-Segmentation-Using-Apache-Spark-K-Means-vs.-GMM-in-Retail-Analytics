@@ -1,8 +1,4 @@
 # Advanced-Customer-Segmentation-Using-Apache-Spark-K-Means-vs.-GMM-in-Retail-Analytics
- Scalable Systems Programming
-Here’s a draft for the README file based on the content of the provided files:
-
----
 
 # Advanced Customer Segmentation Using Apache Spark
 
